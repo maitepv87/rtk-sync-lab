@@ -1,12 +1,22 @@
-# React + Vite
+# RTK-SyncLab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description  
+RTK-SyncLab is a test lab built with React, Vite, and Redux Toolkit to explore efficient state management. This project enables experimentation with data handling, state synchronization, and the use of shared global actions through `extraReducers` in Redux Toolkit.
 
-Currently, two official plugins are available:
+## Technologies Used  
+- **React** – Library for interactive user interfaces  
+- **Vite** – Modern and fast development environment  
+- **Redux Toolkit** – Optimized state management  
+- **React-Redux** – Integration between Redux and React  
+- **Bulma** – CSS framework for responsive styling  
+- **Faker.js** – Fake data generation for testing  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation & Setup  
+To run this project locally, follow these steps:
 
-## Expanding the ESLint configuration
+### Clone the repository  
+```bash
+git clone https://github.com/maitepv87/rtk-sync-lab.git
+cd rtk-sync-lab
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
