@@ -1,8 +1,8 @@
-# RTK-SyncLab
+# RTK-SyncLab-01
 
 ## Description
 
-RTK-SyncLab is a testing lab built with React, Vite, and Redux Toolkit, designed to explore efficient state management patterns. This project allows hands-on experimentation with:
+RTK-SyncLab-01 is a testing lab built with React, Vite, and Redux Toolkit, designed to explore efficient state management patterns. This project allows hands-on experimentation with:
 
 - Adding and removing items from different slices of state
 - Resetting shared state via global actions
@@ -28,8 +28,8 @@ To run the project locally, follow these steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/maitepv87/rtk-sync-lab.git
-cd rtk-sync-lab
+git clone https://github.com/maitepv87/rtk-sync-lab-01.git
+cd rtk-sync-lab-01
 
 npm install
 npm run dev
