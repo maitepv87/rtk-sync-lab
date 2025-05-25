@@ -1,5 +1,4 @@
 import { useDispatch } from "react-redux";
-import "./App.css";
 import { MoviePlaylist, SongPlaylist } from "./components";
 import { reset } from "./store/actions";
 
